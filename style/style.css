@@ -1,0 +1,36 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    min-height: 100vh;
+    background-image: url("../images/Thanjavur-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+ /*    background-image: linear-gradient(to right top, #3c3c3c, #454545, #4e4e4e, #575757, #606060, #606060, #606060, #606060, #575757, #4e4e4e, #454545, #3d3d3d); */
+}
+.nav-menu
+{
+    float: right;
+}
+#heading
+{
+    text-align: center;
+    color: aliceblue;
+}
+.box
+{
+    background-color: #454545;
+}
+.epiTitle
+{
+    color: white;
+}
+#epiTable
+{
+    display: none;
+}
