@@ -1,0 +1,11 @@
+{
+    "name": "Epigraphy Index",
+    "version": "1.0.0",
+    "description": "Tamil Epigraphy publication index",
+    "manifest_version": 3,
+    "author": "Dhinakar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Tamil Epigraphy Index"
+    }
+}
